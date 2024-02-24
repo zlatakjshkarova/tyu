@@ -1,0 +1,24 @@
+.p {
+    background-color: aquamarine;
+    font-weight: 300;
+    font-size: 35px;
+    border: 23px 45px;
+}
+
+.ty {
+    width: 500px;
+    height: 450%;
+
+}
+
+
+
+
+
+
+
+
+
+.p:hover+.ty {
+    width: 232233px;
+}
